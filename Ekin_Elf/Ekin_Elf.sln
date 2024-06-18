@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekin_Elf", "Ekin_Elf\Ekin_Elf.csproj", "{AFA58740-B290-4844-8DA8-0CB402A7DD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA58740-B290-4844-8DA8-0CB402A7DD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA58740-B290-4844-8DA8-0CB402A7DD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA58740-B290-4844-8DA8-0CB402A7DD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA58740-B290-4844-8DA8-0CB402A7DD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD33E4A0-15BE-4DE6-AA29-934959EE3C44}
+	EndGlobalSection
+EndGlobal
